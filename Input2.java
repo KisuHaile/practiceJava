@@ -21,4 +21,3 @@ public class Input2{
         num.close();
     }
 }
-*/
