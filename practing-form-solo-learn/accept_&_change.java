@@ -31,7 +31,7 @@ class name {
         }
 
         // Print the new name
-        System.out.println("Your new name is: " + name);
+        // System.out.println("Your new name is: " + name);
 
         // Close the Scanner
         user.close();
