@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FirstSwing",
+            "request": "launch",
+            "mainClass": "FirstSwing",
+            "projectName": "practiceJava_255e5b92"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
